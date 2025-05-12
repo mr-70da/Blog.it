@@ -1,0 +1,22 @@
+{
+  "name": "blog.it",
+  "version": "1.0.0",
+  "description": "a blogging platform",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mr-70da/Blog.it.git"
+  },
+  "author": "Mahmoud Ayman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mr-70da/Blog.it/issues"
+  },
+  "homepage": "https://github.com/mr-70da/Blog.it#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
